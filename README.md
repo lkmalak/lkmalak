@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,ts,c,py,django,nodejs,express,bootstrap,tailwind,spring,laravel,react,mysql,postgres,graphql,hibernate,git,npm,vite,yarn,postman,notion,,pr,ps,ai,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,ts,c,py,django,nodejs,express,bootstrap,tailwind,spring,laravel,react,mysql,postgres,graphql,git,postman,pr,ps,ai,figma&theme=light)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
