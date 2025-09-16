@@ -6,9 +6,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=lkmalak&color=ff69b4" /> 
 </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=lkmalak&label=Profile%20Views&color=10&icon=5&pretty=true" />
-</a>
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,ts,c,py,django,nodejs,express,bootstrap,tailwind,spring,laravel,react,mysql,postgres,graphql,git,postman,pr,ps,ai,figma&theme=light)](https://skillicons.dev)
