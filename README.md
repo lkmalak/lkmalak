@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitcount.itsvg.in/api?id=lkmalak&label=Profile%20Views&color=10&icon=5&pretty=true)(https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=lkmalak&label=Profile%20Views&color=10&icon=5&pretty=true)
 ![](https://hit.yhype.me/github/profile?account_id=82735602)
 
