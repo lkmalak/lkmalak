@@ -3,7 +3,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lkmalak&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) <span/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lkmalak&theme=ambient_gradient&hide_border=false)
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lkmalak&color=ff69b4" /> 
+</p>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,php,ts,c,py,django,nodejs,express,bootstrap,tailwind,spring,laravel,react,mysql,postgres,graphql,git,postman,pr,ps,ai,figma&theme=light)](https://skillicons.dev)
