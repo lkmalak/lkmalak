@@ -1,8 +1,6 @@
 ## Hi there 👋 <br>🌱 I’m currently learning new thnigs!
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lkmalak&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) <span/>
-![](https://nirzak-streak-stats.vercel.app/?user=lkmalak&theme=ambient_gradient&hide_border=false)
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=lkmalak&color=ff69b4" /> 
 </p>
